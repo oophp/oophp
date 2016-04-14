@@ -1,0 +1,19 @@
+{
+  "name": "oophp/oophp",
+  "description": "Object Oriented PHP",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Yehuda Deutsch",
+      "email": "yeh@uda.co.il"
+    }
+  ],
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {
+      "OOPHP\\": "src/"
+    }
+  },
+  "require": {}
+}
